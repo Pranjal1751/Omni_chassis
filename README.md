@@ -22,11 +22,12 @@ Each wheel is placed in such orientation that its axis of rotation points toward
 1. better accuracy would be brought in angles while manufacturing.
 
 # Team Members:
-Pratham Meena
-Pranajl Mishra
-Avdesh Ranwa
-Yash Raj
+  * Pratham Meena
+  * Pranjal Mishra
+  * Yawan Gupta
+  * Avdesh Ranwa
+
 
 # Mentors:
-Aman Singh
-Prashant Kumar
+  * Aman Singh
+  * Prashant Kumar
